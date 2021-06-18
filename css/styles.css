@@ -1,0 +1,88 @@
+.container-fluid
+{
+  padding: 3% 12% 3% 5%;
+  background-color: #ff4c68;
+}
+.first
+{
+  height:500px;
+  padding:0;
+}
+h1
+{
+  color: white;
+  padding-bottom: 40px;
+  padding-top: 80px;
+  padding-left:0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h2
+{
+  color:white;
+font-family: 'Merriweather', serif;
+line-height: 1.5;
+padding-left:0;
+}
+.second
+{
+  background-color: white;
+  color:#ff4c68;
+  font-size: 3.5rem;
+  padding: 140px ;
+  font-family: 'Merriweather', serif;
+}
+#reason
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 80px 0;
+}
+.abc
+{
+  height:400px;
+  padding:40px 0 0 0;
+  border-radius: 100%;
+}
+.def
+{
+  padding: 0 25% ;
+}
+.ghi
+{
+  color: white;
+  padding-bottom: 40px;
+  padding-top:0;
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.jkl
+{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.mno
+{
+  height:400px;
+  width:400px;
+    padding:40px 0 0 0;
+    border-radius: 100%;
+}
+.pqr
+{
+  padding: 0 20% ;
+}
+
+#end
+{
+  background-color: white;
+  padding:80px  40px;
+  text-align: center;
+}
+.tata
+{
+  color:#ff4c68;
+  font-family: 'Montserrat', sans-serif;
+}
